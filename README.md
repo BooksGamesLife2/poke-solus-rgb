@@ -12,6 +12,8 @@ For a detailed summary of all the changes in this romhack, check out the [featur
 
 Just want the patch? Go [here][releases].
 
+(This fork only changes Ghost-type effectiveness against Psychic-Types)
+
 ## Table of Contents
 - [Versions](#versions)
 - [Description](#description)
